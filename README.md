@@ -13,6 +13,12 @@
         <td>did</td>
         <td>done</td>
     </tr>
+    <tr>
+        <td>to be</td>
+        <td>am, is, are</td>
+        <td>was, were</td>
+        <td>have been, has been</td>
+    </tr>
 </table>
 
 
