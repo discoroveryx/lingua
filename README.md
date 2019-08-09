@@ -27,14 +27,17 @@
         <th></th>
         <th>simple</th>
         <th>continious</th>
-        <th>perfect (v3)</th>
+        <th>perfect</th>
         <th></th>
     </tr>
     <tr>
         <td>future</td>
         <td>will</td>
         <td>will be</td>
-        <td>will have</td>
+        <td>
+            will have + v3 <br>
+            i will have done
+        </td>
         <td></td>
     </tr>
     <tr>
