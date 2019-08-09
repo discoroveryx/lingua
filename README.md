@@ -47,7 +47,7 @@
     <tr>
         <td>past</td>
         <td>did (v2)</td>
-        <td>was, were (v+ing - active - i was doing) (v3 - passive - i was done)</td>
+        <td>was, were <br>(v+ing - active - i was doing) (v3 - passive - i was done)</td>
         <td>had done</td>
         <td>1</td>
     </tr>
