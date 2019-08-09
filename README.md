@@ -1,7 +1,7 @@
 
 
 
-| infinitivus | v1 | v2 (only for past present) | v3/participle |
+| infinitivus | v | v2 (only for past present) | v3/participle |
 | --- | --- | --- | --- |
 | to do | do | did | done |
 | to be | am, is, are | was, were | have been, has been |
