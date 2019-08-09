@@ -4,8 +4,8 @@
     <tr>
         <th>infinitivus</th>
         <th>v1</th>
-        <th>v2</th>
-        <th>v3</th>
+        <th>v2 (only for past present)</th>
+        <th>v3/participle</th>
     </tr>
     <tr>
         <td>to do</td>
