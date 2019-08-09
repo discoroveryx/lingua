@@ -10,33 +10,18 @@
 
 | infinitivus | simple | continious | perfect | |
 | --- | --- | --- | --- |
-| future | will | will be |  will have + v3 *i will have done*|
-| to be | am, is, are | was, were | have been, has been |
+| future | will | will be | will have + v3 *i will have done* | |
+| simple | do, does | am, is, are | have done, has done | she has been done, she has been doing |
 
 <table>
-    <tr>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+</td>
     </tr>
     <tr>
         <td></td>
         <td></td>
         <td></td>
-        <td>
-            <br>
-            
-        </td>
         <td></td>
-    </tr>
-    <tr>
-        <td>simple</td>
-        <td>do, does</td>
-        <td>am, is, are</td>
-        <td>have done, has done</td>
-        <td>she has been done, she has been doing</td>
+        <td></td>
     </tr>
     <tr>
         <td>past</td>
