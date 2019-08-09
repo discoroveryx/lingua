@@ -8,22 +8,26 @@
 
 
 
+| infinitivus | simple | continious | perfect | |
+| --- | --- | --- | --- |
+| future | will | will be |  will have + v3 *i will have done*|
+| to be | am, is, are | was, were | have been, has been |
 
 <table>
     <tr>
         <th></th>
-        <th>simple</th>
-        <th>continious</th>
-        <th>perfect</th>
+        <th></th>
+        <th></th>
+        <th></th>
         <th></th>
     </tr>
     <tr>
-        <td>future</td>
-        <td>will</td>
-        <td>will be</td>
+        <td></td>
+        <td></td>
+        <td></td>
         <td>
-            will have + v3 <br>
-            **i will have done**
+            <br>
+            
         </td>
         <td></td>
     </tr>
