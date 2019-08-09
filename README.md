@@ -27,7 +27,7 @@
         <th></th>
         <th>simple</th>
         <th>continious</th>
-        <th>perfect</th>
+        <th>perfect (v3)</th>
         <th></th>
     </tr>
     <tr>
@@ -48,7 +48,7 @@
         <td>past</td>
         <td>did (v2)</td>
         <td>was, were (v+ing - active - i was doing) (v3 - passive - i was done)</td>
-        <td>1</td>
+        <td>had done</td>
         <td>1</td>
     </tr>
 
