@@ -39,10 +39,10 @@
     </tr>
     <tr>
         <td>simple</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
+        <td>do, does</td>
+        <td>am, is, are</td>
+        <td>have done, has done</td>
+        <td>she has been done, she has been doing</td>
     </tr>
     <tr>
         <td>past</td>
