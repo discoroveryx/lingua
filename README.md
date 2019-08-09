@@ -8,7 +8,7 @@
 
 
 
-|  | SIMPLE | CONTINIOUS | PERFECT | |
+|  | SIMPLE | CONTINIOUS | PERFECT | PERFECT CONTINIOUS |
 | --- | --- | --- | --- | --- |
 | **FUTURE** | will | will be | will have + v3 </br> *i will have done* | |
 | **PRESENT** | do, does | am, is, are | have done, has done | she has been done, she has been doing |
