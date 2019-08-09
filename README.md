@@ -32,10 +32,10 @@
     </tr>
     <tr>
         <td>future</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
+        <td>will</td>
+        <td>will be</td>
+        <td>will have</td>
+        <td></td>
     </tr>
     <tr>
         <td>simple</td>
