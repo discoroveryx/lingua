@@ -8,7 +8,7 @@
 
 
 
-| infinitivus | simple | continious | perfect | |
+|  | simple | continious | perfect | |
 | --- | --- | --- | --- | --- |
 | **future** | will | will be | will have + v3 </br> *i will have done* | |
 | **simple** | do, does | am, is, are | have done, has done | she has been done, she has been doing |
