@@ -9,30 +9,7 @@
 
 
 | infinitivus | simple | continious | perfect | |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | future | will | will be | will have + v3 *i will have done* | |
 | simple | do, does | am, is, are | have done, has done | she has been done, she has been doing |
-
-<table>
-</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>past</td>
-        <td>did (v2)</td>
-        <td>
-            was, were<br>
-            (v+ing - active - i was doing)<br>
-            (v3 - passive - i was done)
-        </td>
-        <td>had done</td>
-        <td>1</td>
-    </tr>
-
-</table>
+| past | did (v2) | was, were (v+ing - active - i was doing) (v3 - passive - i was done)| had done |  |
