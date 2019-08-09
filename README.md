@@ -1,25 +1,12 @@
 
 
-<table>
-    <tr>
-        <th>infinitivus</th>
-        <th>v1</th>
-        <th>v2 (only for past present)</th>
-        <th>v3/participle</th>
-    </tr>
-    <tr>
-        <td>to do</td>
-        <td>do</td>
-        <td>did</td>
-        <td>done</td>
-    </tr>
-    <tr>
-        <td>to be</td>
-        <td>am, is, are</td>
-        <td>was, were</td>
-        <td>have been, has been</td>
-    </tr>
-</table>
+
+| infinitivus | v1 | v2 (only for past present) | v3/participle |
+| --- | --- | --- | --- |
+| to do | do | did | done |
+| to be | am, is, are | was, were | have been, has been |
+
+
 
 
 <table>
