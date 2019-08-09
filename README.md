@@ -36,7 +36,7 @@
         <td>will be</td>
         <td>
             will have + v3 <br>
-            <small>i will have done</small>
+            <span font-size="5px">i will have done</span>
         </td>
         <td></td>
     </tr>
