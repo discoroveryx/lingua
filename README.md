@@ -17,3 +17,6 @@
 
 ## questions
 > what color is this skirt?
+
+he has been learning Spanish for 2 years - active
+Spanish has been learned by him for 2 years - passive
