@@ -20,3 +20,6 @@
 
 he has been learning Spanish for 2 years - active
 Spanish has been learned by him for 2 years - passive
+
+SVO = Subject + Verb + Object
+he understands anything
