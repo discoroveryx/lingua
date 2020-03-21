@@ -18,8 +18,14 @@
 ## questions
 > what color is this skirt?
 
-he has been learning Spanish for 2 years - active
+he has been learning Spanish for 2 years - asctive
 Spanish has been learned by him for 2 years - passive
 
 SVO = Subject + Verb + Object
 he understands anything
+
+##
+am / is / are + Ving
+you are paying = вы платите (present continious)
+be + V3
+you are paid monthly = вам платят ежемесячное ()
